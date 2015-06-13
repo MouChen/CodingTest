@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="img_desc">weather icon</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Location Services unavailable</string>
+    <string name="dialog_content">Please turn on Location Services and relaunch the app.</string>
+    <string name="temperature">Temperature: %1$s\u2103</string>
+    <string name="humidity">Humidity: %1$s%%</string>
+
+    <!-- Error Messages -->
+    <string name="error_api">Sorry, we are having difficulties retrieving weather information, please try again later.
+    </string>
+    <string name="error_network">Network issues are preventing application from completing the current process.
+        Please make sure you have network connection.
+    </string>
+    <string name="error_location">Sorry, we are having difficulties retrieving your current location, please try again
+        later.
+    </string>
+
+</resources>
